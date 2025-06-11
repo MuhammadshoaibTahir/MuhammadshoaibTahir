@@ -1,8 +1,9 @@
 <!-- README for Muhammad Shoaib Tahir -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=4000&pause=800&color=0E7DC2&center=true&vCenter=true&width=1000&lines=✨+Muhammad+Shoaib+Tahir+✨;Computational+Linguist+%7C+Cybersecurity+Explorer;NLP+%7C+Urdu+%26+Punjabi+Grammar+Tech;Python+%7C+Tkinter+%7C+Linguistic+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1ABC9C&center=true&vCenter=true&width=1000&lines=Muhammad+Shoaib+Tahir;Computational+Linguist+%7C+Cybersecurity+Explorer;NLP+Engineer+%7C+Urdu+%26+Punjabi+Grammar+Modeling;Python+%7C+Tkinter+%7C+Linguistic+AI+Tools" alt="Typing SVG" />
 </p>
+
 
 ---
 
