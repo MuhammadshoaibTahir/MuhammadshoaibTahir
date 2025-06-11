@@ -1,7 +1,7 @@
 <!-- README for Muhammad Shoaib Tahir -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Muhammad+Shoaib+Tahir;🧠+Computational+Linguist+%7C+Cybersecurity+Learner;💻+NLP+%7C+Python+%7C+Urdu+%26+Punjabi+Processing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=09A7F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Muhammad+Shoaib+Tahir;Computational+Linguist+%7C+Cybersecurity+Learner;NLP+%7C+Urdu+%26+Punjabi+Processing" />
 </p>
 
 ---
@@ -18,10 +18,10 @@
 
 ## 🧑‍💼 About Me
 
-🌟 I'm a **Computational Linguist**, working on grammar-based models for **Urdu & Punjabi**.  
+🌟 I'm a **Computational Linguist**, passionate about grammar-driven approaches to **Urdu & Punjabi NLP**.  
 🔍 Currently exploring the intersection of **Natural Language Processing (NLP)** and **Cybersecurity**.  
-💬 I love developing tools for linguists using **Python**, **Tkinter**, and **pandas**.  
-🎯 Interested in data-driven grammar detection, linguistic rule engines, and human-centered tech.
+💬 I build Python-based tools and GUIs that empower linguistic research.  
+🎯 Interested in syntactic parsing, human-centered NLP, and digital language preservation.
 
 ---
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 💼 My Tools & Stack
+## 💼 Tools & Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
@@ -53,13 +53,13 @@
 | Project | Description |
 |--------|-------------|
 | 🔤 [**punjabiverbs**](https://github.com/MuhammadshoaibTahir/punjabiverbs) | Detects tense and structure in Punjabi using grammar rules. |
-| 🧠 [**codes-for-linguists**](https://github.com/MuhammadshoaibTahir/codes-for-linguists) | Useful Python code for linguists and language researchers. |
-| 🔁 [**Makeiteasy**](https://github.com/MuhammadshoaibTahir/Makeiteasy) | Converts Excel sheets to JSON for automation. |
-| 🖼 [**TagChecker**](https://github.com/MuhammadshoaibTahir/TagChecker) | GUI to tag Urdu sentences using tense rules. |
+| 🧠 [**codes-for-linguists**](https://github.com/MuhammadshoaibTahir/codes-for-linguists) | Python utilities for linguists and researchers. |
+| 🔁 [**Makeiteasy**](https://github.com/MuhammadshoaibTahir/Makeiteasy) | Converts Excel to JSON for streamlined automation. |
+| 🖼 [**TagChecker**](https://github.com/MuhammadshoaibTahir/TagChecker) | GUI to tag Urdu sentences using rule-based detection. |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadshoaibTahir&show_icons=true&theme=radical" width="48%" />
@@ -82,8 +82,8 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn – Muhammad Shoaib Tahir](https://www.linkedin.com/in/muhammad-shoaib-tahir-3a9103179/)
-- 📧 *(Add your email here if you want)*
+- 🔗 [LinkedIn – Muhammad Shoaib Tahir](https://www.linkedin.com/in/muhammad-shoaib-tahir-3a9103179/)
+- 📧 *Add your email if you want to be contacted*
 
 ---
 
