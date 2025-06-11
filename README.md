@@ -1,9 +1,10 @@
 <!-- GitHub Profile README for Muhammad Shoaib Tahir -->
 
-# 👋 Hi, I’m **Muhammad Shoaib Tahir**  
-🎓 Linguist | 🧠 NLP Enthusiast | 🔐 Cybersecurity Learner | 💻 Python Programmer  
+# 👋 Hi, I’m **Muhammad Shoaib Tahir**
+
+🎓 Linguist | 🧠 NLP Researcher | 🧑‍💻 Python Developer | 🔐 Cybersecurity Enthusiast  
 📍 Based in Faisalabad, Pakistan  
-🗂 Working on Urdu/Punjabi NLP, Corpus Linguistics, and AI Tools
+💡 Passionate about Urdu & Punjabi NLP, Corpus Linguistics, and computational approaches to language
 
 [![Committers.top badge](https://user-badge.committers.top/pakistan_private/MuhammadshoaibTahir.svg)](https://committers.top/pakistan_private/MuhammadshoaibTahir)
 
@@ -11,10 +12,10 @@
 
 ## 🚀 Featured Projects
 
-- 🔡 [**punjabiverbs**](https://github.com/MuhammadshoaibTahir/punjabiverbs): Tools for detecting Punjabi verb forms using rule-based NLP.
-- 🧠 [**codes-for-linguists**](https://github.com/MuhammadshoaibTahir/codes-for-linguists): Python scripts and language processing tools tailored for linguists.
-- 🔄 [**Makeiteasy**](https://github.com/MuhammadshoaibTahir/Makeiteasy): Convert Excel data to JSON easily for NLP or web use.
-- 📊 [**TagChecker**](https://github.com/MuhammadshoaibTahir/TagChecker): GUI app to analyze and tag Urdu linguistic patterns.
+- 🔡 [**punjabiverbs**](https://github.com/MuhammadshoaibTahir/punjabiverbs): Rule-based Punjabi verb tense and structure detection system.
+- 🧠 [**codes-for-linguists**](https://github.com/MuhammadshoaibTahir/codes-for-linguists): Python code snippets and scripts tailored for linguistics and NLP learners.
+- 🔄 [**Makeiteasy**](https://github.com/MuhammadshoaibTahir/Makeiteasy): Convert Excel data to JSON for NLP, web apps, or automation.
+- 📊 [**TagChecker**](https://github.com/MuhammadshoaibTahir/TagChecker): Tkinter-based GUI application to detect tense and structure in Urdu using linguistic rules.
 
 ---
 
@@ -43,12 +44,12 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-- 💼 [LinkedIn (optional)](https://www.linkedin.com/)
-- 📧 Email: *Add your professional email here*
-- 🌐 Portfolio (optional): *Add your personal website or blog*
+- 💼 [LinkedIn – Muhammad Shoaib Tahir](https://www.linkedin.com/in/muhammad-shoaib-tahir-3a9103179/)
+- 📧 Email: *Add your email here if you want to display it*
+- 🌐 Portfolio (optional): *Add a personal website if available*
 
 ---
 
-_✨ This profile is built to showcase NLP work in Urdu/Punjabi and promote computational linguistics projects with an academic + tech blend._
+_✨ I use code to explore and process languages, combining linguistics and machine learning to build tools for real-world NLP in Urdu and Punjabi._
