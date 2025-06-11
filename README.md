@@ -6,7 +6,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadshoaibTahir&theme=tokyonight&no-frame=true&title=Followers,Stars,Commit,Repositories&column=6&margin-w=10" />
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MuhammadshoaibTahir&theme=tokyonight&no-frame=true&title=Followers,Stars,Commit,Repositories&column=6&margin-w=10" />
 </p>
 ---
 
