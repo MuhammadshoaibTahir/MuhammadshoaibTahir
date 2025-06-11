@@ -1,14 +1,13 @@
 <!-- README for Muhammad Shoaib Tahir -->
-## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1ABC9C&center=true&vCenter=true&width=1000&lines=Muhammad+Shoaib+Tahir;Computational+Linguist+%7C+Cybersecurity+Explorer;NLP+Engineer+%7C+Urdu+%26+Punjabi+Grammar+Modeling;Python+%7C+Cybersecurity+%7C+Linguistic+Freelancer" alt="Typing SVG" />
+</p>
+---
+                                                                                  ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MuhammadshoaibTahir&theme=tokyonight&no-frame=true&title=Followers,Stars,Commit,Repositories&column=6&margin-w=10" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1ABC9C&center=true&vCenter=true&width=1000&lines=Muhammad+Shoaib+Tahir;Computational+Linguist+%7C+Cybersecurity+Explorer;NLP+Engineer+%7C+Urdu+%26+Punjabi+Grammar+Modeling;Python+%7C+Cybersecurity+%7C+Linguistic+Freelancer" alt="Typing SVG" />
-</p>
-
 ---
 
 <h3 align="center">📍 Faisalabad, Pakistan | 🧠 NLP & Cybersecurity | 🔤 Urdu & Punjabi Linguistics</h3>
