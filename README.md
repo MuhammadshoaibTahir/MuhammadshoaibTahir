@@ -1,91 +1,90 @@
-<!-- GitHub Profile README | Muhammad Shoaib Tahir -->
-
-<h1 align="center">👋 Hi, I'm Muhammad Shoaib Tahir</h1>
+<!-- README for Muhammad Shoaib Tahir -->
 
 <p align="center">
-🎓 Linguist & NLP Researcher • 💻 Python Developer • 🔐 Cybersecurity Learner  
-📍 Faisalabad, Pakistan
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Muhammad+Shoaib+Tahir;🧠+Computational+Linguist+%7C+Cybersecurity+Learner;💻+NLP+%7C+Python+%7C+Urdu+%26+Punjabi+Processing" />
+</p>
+
+---
+
+<h3 align="center">📍 Faisalabad, Pakistan | 🧠 NLP & Cybersecurity | 🔤 Urdu & Punjabi Linguistics</h3>
+
+<p align="center">
+  <a href="https://github.com/MuhammadshoaibTahir"><img src="https://img.shields.io/github/followers/MuhammadshoaibTahir?label=GitHub&style=for-the-badge&logo=github&color=181717" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-shoaib-tahir-3a9103179/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MuhammadshoaibTahir&style=for-the-badge&color=blue" alt="Profile views" />
+</p>
+
+---
+
+## 🧑‍💼 About Me
+
+🌟 I'm a **Computational Linguist**, working on grammar-based models for **Urdu & Punjabi**.  
+🔍 Currently exploring the intersection of **Natural Language Processing (NLP)** and **Cybersecurity**.  
+💬 I love developing tools for linguists using **Python**, **Tkinter**, and **pandas**.  
+🎯 Interested in data-driven grammar detection, linguistic rule engines, and human-centered tech.
+
+---
+
+## 🧠 Core Focus Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-%236a1b9a.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computational%20Linguistics-%232e7d32.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-%23f44336.svg?style=for-the-badge&logo=HackTheBox&logoColor=white" />
+</p>
+
+---
+
+## 💼 My Tools & Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-GUI-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 📚 Notable Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔤 [**punjabiverbs**](https://github.com/MuhammadshoaibTahir/punjabiverbs) | Detects tense and structure in Punjabi using grammar rules. |
+| 🧠 [**codes-for-linguists**](https://github.com/MuhammadshoaibTahir/codes-for-linguists) | Useful Python code for linguists and language researchers. |
+| 🔁 [**Makeiteasy**](https://github.com/MuhammadshoaibTahir/Makeiteasy) | Converts Excel sheets to JSON for automation. |
+| 🖼 [**TagChecker**](https://github.com/MuhammadshoaibTahir/TagChecker) | GUI to tag Urdu sentences using tense rules. |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadshoaibTahir&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadshoaibTahir&layout=compact&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-shoaib-tahir-3a9103179/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/MuhammadshoaibTahir"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=MuhammadshoaibTahir&style=for-the-badge&color=blue" />
+  <img src="https://streak-stats.demolab.com/?user=MuhammadshoaibTahir&theme=dark" />
 </p>
 
 ---
 
-## 💼 About Me
-
-I'm a computational linguist passionate about Urdu and Punjabi NLP. I specialize in building rule-based and corpus-driven applications using Python. I also explore cybersecurity fundamentals and data automation tools.
-
----
-
-## 🧠 Areas of Focus
-
-<p>
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-%23cc6699.svg?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computational%20Linguistics-%23357ebd?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-%230089ff?style=for-the-badge"/>
-</p>
-
----
-
-## 🛠️ Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tkinter-GUI-orange?style=flat"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
-
----
-
-## 🔍 Highlighted Projects
-
-- 🔤 [**punjabiverbs**](https://github.com/MuhammadshoaibTahir/punjabiverbs)  
-  Rule-based Punjabi verb tense and structure detection using grammar logic.
-
-- 📚 [**codes-for-linguists**](https://github.com/MuhammadshoaibTahir/codes-for-linguists)  
-  Snippets and utilities designed for computational linguists and learners.
-
-- 🔁 [**Makeiteasy**](https://github.com/MuhammadshoaibTahir/Makeiteasy)  
-  Converts Excel data into structured JSON for NLP or automation workflows.
-
-- 🖼 [**TagChecker**](https://github.com/MuhammadshoaibTahir/TagChecker)  
-  GUI app to analyze and tag Urdu sentences using rule-based grammars.
-
----
-
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadshoaibTahir&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadshoaibTahir&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MuhammadshoaibTahir&theme=dark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadshoaibTahir&theme=gruvbox&no-frame=true&column=6&margin-w=10" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies (Optional)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadshoaibTahir&theme=gruvbox"/>
-</p>
-
----
-
-## 📫 Get in Touch
+## 📫 Let's Connect
 
 - 💼 [LinkedIn – Muhammad Shoaib Tahir](https://www.linkedin.com/in/muhammad-shoaib-tahir-3a9103179/)
-- 📧 Email: *(Add your email here if you want it displayed)*
+- 📧 *(Add your email here if you want)*
 
 ---
 
-<p align="center"><i>“Code is a tool. Language is the key. Together, they unlock powerful possibilities for Urdu & Punjabi NLP.”</i></p>
+<p align="center"><i>“Let’s bridge languages and machines — one syntax at a time.”</i></p>
