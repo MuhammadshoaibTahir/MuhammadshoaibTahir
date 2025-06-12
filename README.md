@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm a **Computational Linguist** with a passion for grammar-based modeling in **Urdu & Punjabi**.
-- 🔐 Currently exploring **Cybersecurity** tools with a focus on **Natural Language Processing**.
+- 🔐 Currently exploring **Cybersecurity**.
 - 🛠 Building intelligent tools with **Python**, **Tkinter**, and **pandas**.
 - 📈 Enthusiastic about language tech, rule-based AI, and linguist-friendly applications.
 
