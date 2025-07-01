@@ -88,5 +88,27 @@
 - 💼 LinkedIn: [Muhammad Shoaib Tahir](https://www.linkedin.com/in/muhammad-shoaib-tahir-3a9103179/)
 
 ---
+---
+
+## ⭐ Student Reviews
+
+> *"Shoaib's Computational Linguistics course was practical and clear. Highly recommended!"*  
+— **Ali Raza**
+
+> *"The Python course helped me understand coding for language processing. Excellent experience!"*  
+— **Fatima Khan**
+
+> *"Well-structured, easy to follow, and very practical."*  
+— **Ahmad Shah**
+
+---
+
+### ✍️ Want to Leave a Review?
+
+Click the link below to share your feedback:
+
+[**Leave a Review**](https://forms.gle/FGBZ69Kdek59uyTUA)
+
+---
 
 <p align="center"><i>“Let’s bridge languages and machines — one syntax at a time.”</i></p>
