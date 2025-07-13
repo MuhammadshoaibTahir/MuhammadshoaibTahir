@@ -62,36 +62,15 @@
 
 ---
 
-## 🌟 Reviews
-
-> _"Shoaib’s Urdu POS Tagger is a game-changer. Rule-based accuracy with detailed tagging in Shahmukhi—this is what we needed in South Asian NLP."_  
-> ⭐⭐⭐⭐⭐ — **Dr. Amir Qureshi, NLP Researcher**
-
-> _"The Balanced Corpus Builder helped our linguistics department gather genre-specific texts in Urdu with precise tagging. Highly recommended!"_  
-> ⭐⭐⭐⭐⭐ — **Prof. Saima Javed, Corpus Linguist**
-
-> _"‘Git Snakes’ is not just clever in name. The network sniffer and stealth logger taught our students cybersecurity the fun way."_  
-> ⭐⭐⭐⭐⭐ — **Engr. Faizan Rauf, Ethical Hacking Instructor**
-
----
-
-## 🐍 GitHub Contribution Snake
+## 🔁 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadshoaibTahir/MuhammadshoaibTahir/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://streak-stats.demolab.com/?user=MuhammadshoaibTahir&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak" />
 </p>
-
-> ⚡ *My contributions leave a trail... literally.*
-
----
-
-## 🛡️ Cybersecurity Animation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTBxeHV2eHNiNndhY3kxdGk0OWdva2I3ZGMxNWVxOWx2dXE1M2ZkOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="600" alt="Cybersecurity GIF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadshoaibTahir&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
-<p align="center"><i>Security isn’t just about tools — it’s about thinking ahead.</i></p>
 
 ---
 
@@ -100,10 +79,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadshoaibTahir&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadshoaibTahir&layout=compact&theme=radical&langs_count=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MuhammadshoaibTahir&theme=dark" />
 </p>
 
 ---
