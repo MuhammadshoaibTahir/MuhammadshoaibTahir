@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1ABC9C&center=true&vCenter=true&width=1000&lines=Muhammad+Shoaib+Tahir;Computational+Linguist+%7C+Cybersecurity+Explorer;NLP+Engineer+%7C+Urdu+%26+Punjabi+Grammar+Modeling;Python+%7C+Cybersecurity+%7C+Linguistic+Freelancer" alt="Typing SVG" />
 </p>
+
 ---
 
 <h3 align="center">📍 Faisalabad, Pakistan | 🧠 NLP & Cybersecurity | 🔤 Low Resourced Languages</h3>
@@ -61,6 +62,39 @@
 
 ---
 
+## 🌟 Reviews
+
+> _"Shoaib’s Urdu POS Tagger is a game-changer. Rule-based accuracy with detailed tagging in Shahmukhi—this is what we needed in South Asian NLP."_  
+> ⭐⭐⭐⭐⭐ — **Dr. Amir Qureshi, NLP Researcher**
+
+> _"The Balanced Corpus Builder helped our linguistics department gather genre-specific texts in Urdu with precise tagging. Highly recommended!"_  
+> ⭐⭐⭐⭐⭐ — **Prof. Saima Javed, Corpus Linguist**
+
+> _"‘Git Snakes’ is not just clever in name. The network sniffer and stealth logger taught our students cybersecurity the fun way."_  
+> ⭐⭐⭐⭐⭐ — **Engr. Faizan Rauf, Ethical Hacking Instructor**
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadshoaibTahir/MuhammadshoaibTahir/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> ⚡ *My contributions leave a trail... literally.*
+
+---
+
+## 🛡️ Cybersecurity Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTBxeHV2eHNiNndhY3kxdGk0OWdva2I3ZGMxNWVxOWx2dXE1M2ZkOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="600" alt="Cybersecurity GIF" />
+</p>
+
+<p align="center"><i>Security isn’t just about tools — it’s about thinking ahead.</i></p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -89,9 +123,4 @@
 
 ---
 
-## 🐍 GitHub Contributions Snake
-
-![GitHub Snake Light](https://raw.githubusercontent.com/MuhammadshoaibTahir/MuhammadshoaibTahir/output/github-contribution-grid-snake.svg)
-
-> ⚡ *Watch my contribution graph slither through time!*
 <p align="center"><i>“Let’s bridge languages and machines — one syntax at a time.”</i></p>
