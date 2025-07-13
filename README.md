@@ -4,11 +4,20 @@
 </p>
 
 ---
+<h3 align="center">📍 Faisalabad, Pakistan | 🧠 NLP & Cybersecurity | 🔤 Low Resourced Languages</h3>
+
+---
+
+## 🛡️ Cybersecurity & Ethical Hacking
+
 <p align="center">
-  <img src="https://media.giphy.com/media/Z9hWQyJpP3etbLQZ6c/giphy.gif" width="600" alt="Cybersecurity GIF" />
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="600" alt="Ethical Hacking Terminal Animation" />
 </p>
 
-<h3 align="center">📍 Faisalabad, Pakistan | 🧠 NLP & Cybersecurity | 🔤 Low Resourced Languages</h3>
+<p align="center">
+  <b>Exploring Offensive Security, Network Recon, and Ethical Hacking with Python & Open-Source Tools</b><br/>
+  <i>Focus: Packet analysis, OSINT, Nmap, Python-based payloads, & Linux privilege escalation.</i>
+</p>
 
 <p align="center">
   <a href="https://github.com/MuhammadshoaibTahir">
