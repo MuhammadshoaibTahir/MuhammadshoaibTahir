@@ -8,11 +8,15 @@
 
 ---
 
-## 🛡️ Cybersecurity & Ethical Hacking
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Initiating+Ethical+Hacking+Suite...;Scanning+Ports+%7C+OS+Fingerprinting...;Running+Nmap+%7C+Enum4linux+%7C+Hydra...;Privilege+Escalation+Mode+Active...;Payload+Delivered+Successfully." />
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="600" alt="Ethical Hacking Terminal Animation" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking-In_Progress-green?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Offensive_Security-Practice_Mode-orange?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </p>
+
 
 <p align="center">
   <b>Exploring Offensive Security, Network Recon, and Ethical Hacking with Python & Open-Source Tools</b><br/>
