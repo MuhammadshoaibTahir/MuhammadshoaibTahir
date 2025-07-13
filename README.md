@@ -1,9 +1,12 @@
 <!-- README for Muhammad Shoaib Tahir -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1ABC9C&center=true&vCenter=true&width=1000&lines=Muhammad+Shoaib+Tahir;Computational+Linguist+%7C+Cybersecurity+Explorer;NLP+Engineer+%7C+Urdu+%26+Punjabi+Grammar+Modeling;Python+%7C+Cybersecurity+%7C+Linguistic+Freelancer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1ABC9C&center=true&vCenter=true&width=1000&lines=Muhammad+Shoaib+Tahir;Computational+Linguist+%7C+Cybersecurity+Explorer;NLP+Engineer+%7C+Urdu+%26+Punjabi+Grammar+Modeling;Python+%7C+Cybersecurity+%7C+Linguistic+Lecturer" alt="Typing SVG" />
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/Z9hWQyJpP3etbLQZ6c/giphy.gif" width="600" alt="Cybersecurity GIF" />
+</p>
 
 <h3 align="center">📍 Faisalabad, Pakistan | 🧠 NLP & Cybersecurity | 🔤 Low Resourced Languages</h3>
 
