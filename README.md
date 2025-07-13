@@ -89,4 +89,9 @@
 
 ---
 
+## 🐍 GitHub Contributions Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/MuhammadshoaibTahir/MuhammadshoaibTahir/output/github-contribution-grid-snake.svg)
+
+> ⚡ *Watch my contribution graph slither through time!*
 <p align="center"><i>“Let’s bridge languages and machines — one syntax at a time.”</i></p>
