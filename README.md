@@ -4,7 +4,7 @@
 </p>
 
 ---
-<h3 align="center">📍 Faisalabad, Pakistan | 🧠 NLP & Cybersecurity | 🔤 Low Resourced Languages</h3>
+<h3 align="center">📍 Faisalabad, Pakistan | 🧠 Natural Language Processing and Statistical Analysis  | 🔤 Downstream Languages</h3>
 
 ---
 
