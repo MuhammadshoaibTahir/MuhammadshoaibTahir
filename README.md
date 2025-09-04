@@ -92,7 +92,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadshoaibTahir&show_icons=true&theme=radical" width="48%" />
   <img src="https://raw.githubusercontent.com/MuhammadShoaibTahir/MuhammadShoaibTahir/github-breakout/images/breakout-light.svg" width="45%" />
   <img src="https://raw.githubusercontent.com/MuhammadShoaibTahir/MuhammadShoaibTahir/github-breakout/images/breakout-dark.svg" width="45%" />
 </p>
