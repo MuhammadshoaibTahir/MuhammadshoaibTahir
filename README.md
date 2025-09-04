@@ -19,8 +19,8 @@
 
 
 <p align="center">
-  <b>Exploring Offensive Security, Network Recon, and Ethical Hacking with Python & Open-Source Tools</b><br/>
-  <i>Focus: Packet analysis, OSINT, Nmap, Python-based payloads, & Linux privilege escalation.</i>
+  <b>PYTHON PROGRAMMING</b><br/>
+  <i>Focus: OSINT & Linux privilege escalation.</i>
 </p>
 
 <p align="center">
@@ -66,7 +66,50 @@
 </p>
 
 ---
+name: generate breakout svg
 
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-svg:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+steps:
+  - name: Checkout repository
+        uses: actions/checkout@v4
+
+  - name: generate SVG
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: ${{ github.repository_owner }}
+
+      - name: Move generated SVGs to temp
+        run: |
+          mkdir -p /tmp/breakout-images
+          mv output/light.svg /tmp/breakout-images/breakout-light.svg
+          mv output/dark.svg /tmp/breakout-images/breakout-dark.svg
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and force-push SVGs to target branch
+        run: |
+          git checkout --orphan github-breakout
+          git rm -rf .
+          mkdir images
+          mv /tmp/breakout-images/* images/
+          git add images
+          git commit -m "chore: update GitHub breakout SVGs" || echo "No changes to commit"
+          git push --force origin github-breakout
+          
 ## 📚 Featured Projects
 
 | Project | Description |
