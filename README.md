@@ -93,7 +93,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MuhammadShoaibTahir/MuhammadShoaibTahir/github-breakout/images/breakout-light.svg" width="45%" />
-  <img src="https://raw.githubusercontent.com/MuhammadShoaibTahir/MuhammadShoaibTahir/github-breakout/images/breakout-dark.svg" width="45%" />
 </p>
 
 
