@@ -26,5 +26,3 @@ A natural-language interface for corpus exploration that converts user questions
 with **zero hallucination**.
 
 **Key idea:** Answers are computed strictly from corpus evidence, not generated text.
-
-[image.png](https://github.com/MuhammadshoaibTahir/emotion-trajectory-app/blob/main/image.png)
