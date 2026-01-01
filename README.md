@@ -27,6 +27,4 @@ with **zero hallucination**.
 
 **Key idea:** Answers are computed strictly from corpus evidence, not generated text.
 
-🔗 Repository: *(add link)*
-
-**Architecture (simplified):**
+[image.png](https://github.com/MuhammadshoaibTahir/emotion-trajectory-app/blob/main/image.png)
