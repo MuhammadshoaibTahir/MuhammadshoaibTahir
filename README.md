@@ -1,115 +1,72 @@
-<!-- README for Muhammad Shoaib Tahir -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1ABC9C&center=true&vCenter=true&width=1000&lines=Muhammad+Shoaib+Tahir;Computational+Linguist+%7C+Cybersecurity+Explorer;NLP+Engineer+%7C+Urdu+%26+Punjabi+Grammar+Modeling;Python+%7C+Cybersecurity+%7C+Linguistic+Lecturer" alt="Typing SVG" />
-</p>
+# Muhammad Shoaib Tahir
 
----
-<h3 align="center">📍 Faisalabad, Pakistan | 🧠 Natural Language Processing and Statistical Analysis  | 🔤 Downstream Languages</h3>
+Computational Linguist and NLP Systems Developer focused on **corpus-driven AI**, **low-resource languages**, and **linguistically grounded evaluation of modern ML systems**.  
+I build **non-hallucinating NLP tools**, develop open-source language resources, and actively contribute to developer education through talks and workshops.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Initiating+Ethical+Hacking+Suite...;Scanning+Ports+%7C+OS+Fingerprinting...;Running+Nmap+%7C+Enum4linux+%7C+Hydra...;Privilege+Escalation+Mode+Active...;Payload+Delivered+Successfully." />
-</p>
+## 🔍 What I Work On
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ethical_Hacking-In_Progress-green?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Offensive_Security-Practice_Mode-orange?style=for-the-badge&logo=kali-linux&logoColor=white" />
-</p>
-
-
-<p align="center">
-  <b>PYTHON PROGRAMMING</b><br/>
-  <i>Focus: OSINT & Linux privilege escalation.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MuhammadshoaibTahir">
-    <img src="https://img.shields.io/github/followers/MuhammadshoaibTahir?label=GitHub&style=for-the-badge&logo=github&color=181717" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-shoaib-tahir-3a9103179/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=MuhammadshoaibTahir&style=for-the-badge&color=blue" alt="Profile views" />
-</p>
+- **Corpus-driven NLP systems** (no prompt-only hallucination)
+- **Low-resource language processing** (Punjabi, Urdu)
+- **Emotion & sentiment analysis**
+- **LLM evaluation using linguistic and corpus-based methods**
+- **Developer tools for linguists and language researchers**
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Featured Projects
 
-- 🎓 I'm a **Computational Linguist** with a passion for grammar-based modeling in **Urdu & Punjabi**.
-- 🔐 Currently exploring **Cybersecurity**.
-- 🛠 Building intelligent tools with **Python**, **Tkinter**, and **pandas**.
-- 📈 Enthusiastic about language tech, rule-based AI, and linguist-friendly applications.
+### 🧠 Corpus-Driven Intelligence System (SmartSearch)
+Natural-language interface for corpus exploration that converts user questions into executable corpus queries  
+**(frequency, concordance, collocations, statistics)** with full transparency.
 
----
-
-## 🧠 Core Focus Areas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NLP-%236a1b9a.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computational%20Linguistics-%232e7d32.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity-%23f44336.svg?style=for-the-badge&logo=HackTheBox&logoColor=white" />
-</p>
+🔗 Repository: *(add link)*
 
 ---
 
-## 💻 Tech Stack
+### 😊 Emotion Trajectory Analyzer (Live App)
+Interactive NLP application for emotion analysis and visualization in text.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-GUI-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+🔗 Live Demo: https://emotion-trajectory-app-jp2cxmx2hjdkamqyqu4czy.streamlit.app/  
+🔗 Repository: *(add link)*
 
 ---
 
-## 📚 Featured Projects
+### 🌐 Punjabi NLP Toolchain
+Rule-based POS tagger, morphological analyzer, stemmer, and WordNet-style lexical resources for Shahmukhi Punjabi.
 
-| Project | Description |
-|--------|-------------|
-| 🔤 [**punjabiverbs**](https://github.com/MuhammadshoaibTahir/punjabiverbs) | Detects tenses and sentence structure in Punjabi using grammar rules. |
-| 🧠 [**codes-for-linguists**](https://github.com/MuhammadshoaibTahir/codes-for-linguists) | Python utilities designed for linguists and language researchers. |
-| 🔁 [**Makeiteasy**](https://github.com/MuhammadshoaibTahir/Makeiteasy) | Converts Excel files into JSON for quick automation. |
-| 🖼 [**TagChecker**](https://github.com/MuhammadshoaibTahir/TagChecker) | GUI application to tag Urdu sentences with tense & grammar tags. |
+🔗 Repository: *(add link)*
 
 ---
 
-## 🔁 Contribution Activity
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MuhammadshoaibTahir&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadshoaibTahir&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadShoaibTahir/MuhammadShoaibTahir/github-breakout/images/breakout-light.svg" width="65%" />
-</p>
-
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadshoaibTahir&theme=gruvbox&no-frame=true&column=6&margin-w=10" />
-</p>
+- **Programming:** Python
+- **NLP:** Corpus Linguistics, POS Tagging, Morphology, NER, WordNet, Universal Dependencies
+- **Tools:** Git, GitHub, Google Colab, Jupyter Notebook, CWB / Sketch Engine, LancsBox
+- **AI Focus:** LLM evaluation, corpus-based validation, explainable NLP
 
 ---
 
-## 📫 Contact Me
+## 🎤 Community & Education
 
-- 📧 Email: [Shoaibtahir410@gmail.com](mailto:Shoaibtahir410@gmail.com)
-- 💼 LinkedIn: [Muhammad Shoaib Tahir](https://www.linkedin.com/in/muhammad-shoaib-tahir-3a9103179/)
+- Delivered **20+ invited talks and workshops** on NLP and corpus linguistics
+- Resource Person for Corpus Linguistics (multiple universities)
+- National Resource Person — Pakistan Corpus Studio
+- Assistant Manager (Academic Coordination) — Linguistic Association of Pakistan
 
 ---
 
-<p align="center"><i>“Let’s bridge languages and machines — one syntax at a time.”</i></p>
+## 🎯 Why This Matters
+
+Modern language models are powerful but often unreliable.  
+My work focuses on **grounding AI systems in real language data**, ensuring transparency, reproducibility, and linguistic validity—principles essential for responsible and scalable AI.
+
+---
+
+## 📫 Contact
+
+- Email: shoaibtahir410@gmail.com  
+- Portfolio: https://muhammadshoaibtahir.github.io/  
+- LinkedIn: https://www.linkedin.com/in/muhammad-shoaib-tahir-3a9103179/
