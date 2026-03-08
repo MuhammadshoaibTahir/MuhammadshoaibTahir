@@ -61,9 +61,6 @@ Example queries it supports:
 
 The system generates answers **only from corpus evidence**, preventing hallucinated outputs.
 
-Repository:
-https://github.com/MuhammadshoaibTahir
-
 ---
 
 ## 📚 Current Work
